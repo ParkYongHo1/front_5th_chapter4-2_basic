@@ -5,6 +5,11 @@
 ## 📊 성능 개선 결과 요약
 
 ### Before vs After 비교
+## 개선 전 후
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f1105f03-f850-4dfc-975a-7e11c5117cfb" width="45%" />
+  <img src="https://github.com/user-attachments/assets/4c02d9e8-2402-4b3e-9817-abd6623df385" width="45%" />
+</p>
 
 | 항목 | 개선 전 | 개선 후 | 개선 폭 |
 |------|---------|---------|---------|
