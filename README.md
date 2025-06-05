@@ -1,6 +1,6 @@
 # 바닐라 JS 프로젝트 성능 개선 보고서
 
-**프로젝트 URL**: https://d3895ewzxkx7pt.cloudfront.net
+**프로젝트 URL**: [https://d3895ewzxkx7pt.cloudfront.net](https://front-5th-chapter4-2-basic-nu.vercel.app/)
 
 ## 📊 성능 개선 결과 요약
 
